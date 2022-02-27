@@ -2,7 +2,8 @@
 
 A Swift implementation of the ripemd160 Hashing Algorithm.
 
-[![Get on SPM](https://img.shields.io/badge/Add%20Package%20From-Swift%20Package%20Manager-orange?logo=swift)](#installation)
+[![Build Status](https://github.com/MiclausCorp/ripemd160-Swift/actions/workflows/Build.yml/badge.svg?branch=master)](https://github.com/MiclausCorp/ripemd160-Swift/actions/workflows/Build.yml)
+[![Get on SPM](https://img.shields.io/badge/Available%20on-Swift%20Package%20Manager-orange?logo=swift)](#installation)
 
 ## Installation
 #### Swift Package Manager
